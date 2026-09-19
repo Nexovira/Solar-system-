@@ -1,0 +1,6 @@
+{
+  "name": "Hybrid Solar",
+  "description": "Reliable Power. Smarter Energy. Professional solar panel sales, system installation, inverters, battery storage, and energy consultation in Lagos, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
